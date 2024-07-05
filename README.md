@@ -1,1 +1,3 @@
-# RAG-PIPELINE-USING-GEMINI-AND-FAISS-AND-F
+# RAG-PIPELINE-USING-GEMINI-AND-FAISS
+
+This project demonstrates a Retrieval Augmented Generation (RAG) pipeline optimized for question-answering on research papers. By leveraging FAISS as a vector database, it efficiently retrieves relevant sections of a paper based on semantic similarity to your queries. The powerful Gemini language model then analyzes these retrieved passages and generates comprehensive, informative answers. Built on the flexible LangChain framework and utilizing HuggingFace sentence transformers for robust text embeddings, this pipeline is designed to handle the intricacies of academic language and technical content. Feel free to explore the code and experiment with your own research papers to experience the power of RAG in action!
